@@ -26,7 +26,7 @@ The work undertaken and outlined herein sought to explore the:
 6. [Phage and Plasmid detection and mass screening](Phage_and_Plasmid_Screening.md)
 
 # Packages Used
-The following packages and tools (and their respective dependencies) were used in this project. Many thanks to authors and contributors - your work is greatly appreciated and a superb contribution to science.
+The following packages and tools (and their respective dependencies) were used in this project. Many thanks to authors and contributors.
 
 [ABRicate](https://github.com/tseemann/abricate)  
 [Bakta](https://github.com/oschwengers/bakta)  
