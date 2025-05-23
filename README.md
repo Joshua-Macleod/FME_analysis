@@ -49,7 +49,7 @@ The following packages and tools (and their respective dependencies) were used i
 [Snippy](https://github.com/tseemann/snippy)
 
 # Contacts
-You've made it this far, and I'm surprised (and grateful!). Feel free to contact me if you have any queries, suggestions, or want to discuss _Listeria_, other foodborne pathogens or bioinformatics. 
+You've made it this far, and I'm grateful. Feel free to contact me if you have any queries, suggestions, or want to discuss _Listeria_, other foodborne pathogens or bioinformatics. 
 
 - jmacleod@cardiffmet.ac.uk
 - [Linkedin](https://www.linkedin.com/in/joshuamacleod/)
