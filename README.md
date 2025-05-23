@@ -23,7 +23,7 @@ The work undertaken and outlined herein sought to explore the:
 3. [MLST](MLST.md)
 4. [Phylogenetic analysis](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 5. [SNP-based distance analysis](SNP-distance_analysis.md)
-6. [Plasmid, phage, and IS detection and mass screening](Pl_Ph_Is_Screening.md)
+6. [Plasmid, phage, and IS detection and mass screening](Phage_and_Plasmid_Screening.md)
 
 # Packages Used
 The following packages and tools (and their respective dependencies) were used in this project. Many thanks to authors and contributors - your work is greatly appreciated and a superb contribution to science.
