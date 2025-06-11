@@ -25,10 +25,10 @@ The two easiest approaches are (a) upload the profile identified by MLST to _all
 
 Allelic profile:
 <div align="center">
-  <img src="./photos/BIGSdb_profile.png" alt="profile" width="750">
+  <img src="./BIGSdb_profile.png" alt="profile" width="750">
 </div>
 
 Single sequence query:
 <div align="center">
-  <img src="./photos/sequence_query.png" alt="profile" width="750">
+  <img src="./sequence_query.png" alt="profile" width="750">
 </div>
