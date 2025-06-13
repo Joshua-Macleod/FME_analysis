@@ -6,7 +6,7 @@ The scripts herein assume a directory of pre-assembled genomes (using shovill) w
 
 mlst is easily invoked, as below:
 
-```
+```bash
 for file1 in *.fasta; do
     mlst *.fasta > mlst_out
 done
@@ -15,7 +15,7 @@ The benefit of not including a genus is that this is a rapid way to identify con
 However, that of course relies on the contaminant having its own MLST scheme available through the package or having no target genome housekeeping genes to detect, so should **not** be used in place of other taxonomic characterisation tools! 
 
 Of course, if you want to include a genus you may do so:
-```
+```bash
 mlst --scheme listeria *.fasta > mlst_out
 ```
 
