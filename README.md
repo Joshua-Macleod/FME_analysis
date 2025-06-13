@@ -53,7 +53,7 @@ You've made it this far, and I'm grateful. Feel free to contact me if you have a
 
 - jmacleod@cardiffmet.ac.uk
 - [Linkedin](https://www.linkedin.com/in/joshuamacleod/)
-- [Joshua Macleod Consultancy](joshuamacleodconsultancy.com)
+- [Joshua Macleod Consultancy](https://www.joshuamacleodconsultancy.com/)
 - [ZERO2FIVE Food Industry Centre](https://www.cardiffmet.ac.uk/health/zero2five/Pages/default.aspx)
 - [Ozone Research Group](https://ozoneresearchgroup.co.uk/)
 
