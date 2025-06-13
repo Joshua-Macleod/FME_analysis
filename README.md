@@ -21,7 +21,7 @@ The work undertaken and outlined herein sought to explore the:
 1. [Preprocessing, QC and filtering](Post-sequencing_processing.md)
 2. [Annotation and screening](Annotation_and_screening.md)
 3. [MLST](MLST.md)
-4. [Phylogenetic analysis](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+4. [Phylogenetic analysis](phylogenetic_analysis.md)
 5. [SNP-based distance analysis](SNP-distance_analysis.md)
 6. [Phage and Plasmid detection and mass screening](Phage_and_Plasmid_Screening.md)
 
@@ -53,6 +53,7 @@ You've made it this far, and I'm grateful. Feel free to contact me if you have a
 
 - jmacleod@cardiffmet.ac.uk
 - [Linkedin](https://www.linkedin.com/in/joshuamacleod/)
+- [Joshua Macleod Consultancy](joshuamacleodconsultancy.com)
 - [ZERO2FIVE Food Industry Centre](https://www.cardiffmet.ac.uk/health/zero2five/Pages/default.aspx)
 - [Ozone Research Group](https://ozoneresearchgroup.co.uk/)
 
