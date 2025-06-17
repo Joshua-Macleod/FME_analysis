@@ -32,7 +32,7 @@ The following packages and tools (and their respective dependencies) were used i
 [Bakta](https://github.com/oschwengers/bakta)  
 [BIGSdb-Lm](https://bigsdb.pasteur.fr/listeria/)  
 [BLAST](https://blast.ncbi.nlm.nih.gov/)  
-[Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
+[Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)   
 [Clinker](https://github.com/phe-bioinformatics/clinker)  
 [fastp](https://github.com/OpenGene/fastp)  
 [GrapeTree](https://github.com/achtman-lab/GrapeTree)  
@@ -49,7 +49,7 @@ The following packages and tools (and their respective dependencies) were used i
 [Snippy](https://github.com/tseemann/snippy)
 
 # Contacts
-You've made it this far, and I'm grateful. Feel free to contact me if you have any queries, suggestions, or want to discuss _Listeria_, other foodborne pathogens or bioinformatics. 
+Feel free to contact me if you have any queries, suggestions, or want to discuss _Listeria_, other foodborne pathogens or bioinformatics. 
 
 - jmacleod@cardiffmet.ac.uk
 - [Linkedin](https://www.linkedin.com/in/joshuamacleod/)
