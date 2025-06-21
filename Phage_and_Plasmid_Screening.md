@@ -162,3 +162,19 @@ done
 These were assessed using the full Kraken2 viral database to verify viral origin and taxonomically classify.
 
 ## Detection and screening of plasmids
+
+Plasmids were identified using the PlasmidFinder database as maintained by ABRicate to identify replicons in target sequences. 
+```bash
+for file in FME/*.fasta; do
+    filename=$(basename "$file" .fasta)
+    abricate --db plasmidfinder "$file" > "PLASMID_DETECTION/cln_plasmidfinder_out/$filename.tsv"
+done
+```
+Contigs within which a putative plasmid was identifed were extracted using a custom script and stored in independent fasta files. These were manually verified using the browser nucleotide BLAST. 
+
+Next, plasmid sequences were uploaded to [PLSDB](https://ccb-microbe.cs.uni-saarland.de/plsdb2025) to verify identity. 
+
+### Mass screening of Plasmid and Phage sequences
+
+ABRicate was used on extracted plasmid and phage sequence fasta files using ABRicate provided databased and manually curated databased. Extracted sequenced also underwent annotation with Bakta as described in [Annotation_and_screening.md](https://github.com/Joshua-Macleod/FME_analysis/blob/main/Annotation_and_screening.md). Keywords were manually curated, used to identify pertinent genes of interest in GFF files. 
+
