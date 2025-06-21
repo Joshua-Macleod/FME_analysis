@@ -11,6 +11,8 @@ The project, along with neighbouring projects that will likely find their way to
 
 The objective of this as a repository is two-fold. First, I'd like to archive the project, tools used and enhance the reproducibility of this work. Second, I'd like to provide this to students, ECRs and anyone a little unsettled at the scary prospect of computational biology and bioinformatics. It has been fantastic fun, and this may help others realise that if _I_ can do this, they can too. I'll have invariably made mistakes and missteps, but that's all part of the process. 
 
+To note, this is an active repository. Things still need adding, and I may well add scripts from other projects here for the sake of keeping a concise catalogue of code.
+
 # Project Goals
 The work undertaken and outlined herein sought to explore the:
 1. **Prevalence and distribution of _Listeria_ spp.** across ready-to-eat food manufacturing environments in Wales using Multi-Locus Sequence Typing (MLST) and phylogenetic analysis.
